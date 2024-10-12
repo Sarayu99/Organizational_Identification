@@ -2,6 +2,9 @@
 
 This repository contains the code base for the work, '*Locally Ensconced and Globally Integrated: How Positions in Network Structure Relate to a Language-Based Model of Organizational Identification*'. 
 
+**Input Files**
+Out of the email data for the Tech firm, Design firm, and the Staffing firm, the email data is hashed for the Design anf Staffing firm. 
+
 **Main Folders**
 ----
 A description of the main folders in this repository. <br>
