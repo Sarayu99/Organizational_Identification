@@ -17,9 +17,7 @@ A description of the main folders in this repository. <br>
 
 * *Analysis* folder : Contains the code to run the main analyses and generate the tables in the paper.
 
-* *Design_Firm*, *Staffing Firm*, and *Tech Firm* folders : Contains code to generate the Organizational Identification measure generated as shown in the image below, as well as the Network Measures for each firm.
-
-<img width="630" alt="identification_workflow" src="https://github.com/user-attachments/assets/6bbdedce-350c-464b-89f1-b76401c41f1b">
+* *Design_Firm*, *Staffing Firm*, and *Tech Firm* folders : Contains code to generate the Organizational Identification measure as well as the Network Measures for each firm.
 
 For additional details on the training of the GloVe model, please see [this](https://nlp.stanford.edu/projects/glove/) and also refer to the [GloVe GitHub repo](https://github.com/stanfordnlp/GloVe). <br>
 For additional details about fine-tuning Mittens, please refer to the [Mittens GitHub repo](https://github.com/roamanalytics/mittens).
