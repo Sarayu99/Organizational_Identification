@@ -3,7 +3,8 @@
 This repository contains the code base for the work, '*Locally Ensconced and Globally Integrated: How Positions in Network Structure Relate to a Language-Based Model of Organizational Identification*'. 
 
 **Input Files**
-Out of the email data for the Tech firm, Design firm, and the Staffing firm, the email data is hashed for the Design anf Staffing firm. 
+---
+The text corpora consists of email data and hr data from three firms - Tech firm, Design firm, and the Staffing firm. Out of the three firms, the email data are hashed for the Design and Staffing firm. 
 
 **Main Folders**
 ----
