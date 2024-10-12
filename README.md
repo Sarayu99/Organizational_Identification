@@ -8,7 +8,7 @@ Input : The text corpora consists of email data and hr data from three firms - T
 
 The input email data are first cleaned and processed, following which training of GloVe and fine-tuning of Mittens is conducted.
 
-*Note: All file names, as well as input and output file paths have been modified to protect the data use agreements*
+*Note: All file names, as well as input and output file paths have been modified to protect the data use agreements.*
 
 **Main Folders**
 ----
