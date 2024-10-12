@@ -15,7 +15,10 @@ A description of the main folders in this repository. <br>
 
 * *Analysis* folder : contains the code to run the main analyses and generate the tables in the paper.
 
-The order of execution is the following -
+**Order of Execution**
+----
+
+The order of execution is as follows,
 
 1. Generate the Identification and Network measures for each firm. For this, the program files in the three folders - *Design_Firm*, *Staffing Firm*, and *Tech Firm* need to be executed. The measures can be generated for the firms in any order, however, within each firm's folder there are specific instructions on how to execute the programs.
 2. Next, all the processed data are pooled and the regression analyses are conducted. For this, the program files in the *Analysis* folder need to be executed.
