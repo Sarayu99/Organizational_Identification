@@ -9,7 +9,7 @@ The text corpora consists of email data and hr data from three firms - Tech firm
 **Main Folders**
 ----
 A description of the main folders in this repository. <br>
-**<ins>Each folder has its own *README.md* file detailing the folder's contents.<ins>**
+**<ins>Each folder has its own *README.md* file detailing the folder's contents.</ins>**
 
 * *Design_Firm*, *Staffing Firm*, and *Tech Firm* folders : contain code to generate the Organizational Identification measure, as well as the Network Measures for each firm.
 
