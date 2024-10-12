@@ -11,9 +11,12 @@ The text corpora consists of email data and hr data from three firms - Tech firm
 A description of the main folders in this repository. <br>
 **<ins>Each folder has its own *README.md* file detailing the folder's contents.</ins>**
 
-* *Design_Firm*, *Staffing Firm*, and *Tech Firm* folders : contain code to generate the Organizational Identification measure, as well as the Network Measures for each firm.
+* *Analysis* folder : Contains the code to run the main analyses and generate the tables in the paper.
 
-* *Analysis* folder : contains the code to run the main analyses and generate the tables in the paper.
+* *Design_Firm*, *Staffing Firm*, and *Tech Firm* folders : Contains code to generate the Organizational Identification measure generated as shown in the image below, as well as the Network Measures for each firm.
+
+<img width="823" alt="identification_workflow" src="https://github.com/user-attachments/assets/6bbdedce-350c-464b-89f1-b76401c41f1b">
+
 
 **Order of Execution**
 ----
